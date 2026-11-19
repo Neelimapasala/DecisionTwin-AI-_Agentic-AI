@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Neelimapasala/DecisionTwin-AI-_Agentic-AI?style=for-the-badge&color=7f00ff&labelColor=0d1117" alt="top language"/>
   <img src="https://img.shields.io/github/last-commit/Neelimapasala/DecisionTwin-AI-_Agentic-AI?style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="last commit"/>
   <img src="https://img.shields.io/github/stars/Neelimapasala/DecisionTwin-AI-_Agentic-AI?style=for-the-badge&color=ff2bd6&labelColor=0d1117" alt="stars"/>
   <img src="https://img.shields.io/badge/AGENTIC%20AI-a78bfa?style=for-the-badge&labelColor=0d1117" alt="AGENTIC AI"/>
